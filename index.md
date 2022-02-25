@@ -1,6 +1,9 @@
 ## Elin Bergman | Portfolio
 
-You can use the [editor on GitHub](https://github.com/Eliqq/eliqq.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+###intern system för hantering av ansökningar 
+Trygghetsrådet 
+
+###Mobilspel
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
